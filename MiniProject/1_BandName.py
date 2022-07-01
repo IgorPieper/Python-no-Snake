@@ -1,0 +1,5 @@
+print("Witaj w SUPER Nazwo-Generatorze", end="")
+input()
+miasto = input("Jak nazywa się miasto, w którym się urodziłeś? ")
+zwierze = input("Jak się nazywa twoje zwierzątko? ")
+print("Nazwa twojego zespołu to: " + miasto + zwierze)
